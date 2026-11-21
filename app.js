@@ -50,10 +50,7 @@ const STAGES_DATA = [
         "char": "明",
         "layout": "lr",
         "recipes": [
-          [
-            "日",
-            "月"
-          ]
+          ["日","月"]
         ],
         "twin": "朙",
         "hint": "日月齊輝，光明磊落（左右並列）"
