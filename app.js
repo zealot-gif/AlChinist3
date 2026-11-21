@@ -35,14 +35,7 @@ const STAGES_DATA = [
     "stage": 1,
     "title": "萬物之始",
     "subtitle": "自然六象",
-    "components": [
-      "日",
-      "月",
-      "木",
-      "水",
-      "火",
-      "土"
-    ],
+    "components": ["日","月","木","水","火","土"],
     "unlockThreshold": 6,
     "chestRewardCoins": 60,
     "targets": [
